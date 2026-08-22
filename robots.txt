@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-46ewpy.paris88btn.cyou/sitemap.xml
